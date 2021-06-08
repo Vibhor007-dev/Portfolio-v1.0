@@ -1,0 +1,23 @@
+.Header{
+    background-image: url("background.png");
+    display: flex;
+   flex-flow:column wrap;
+   padding-bottom:50px;
+}
+.Menu{
+    display:flex;
+    justify-content:space-between;
+    padding-left: 50px;
+    padding-right:50px;
+
+}
+.Body{
+    display:flex;
+    flex-flow: column ;
+    align-content: center;
+}
+.Item{
+    display:flex;
+    flex-flow: column;
+    align-content: center;
+}
